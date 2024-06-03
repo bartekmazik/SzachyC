@@ -1,0 +1,3 @@
+/Users/bartek/CLionProjects/SzachyC/cmake-build-debug/CMakeFiles/SzachyC.dir
+/Users/bartek/CLionProjects/SzachyC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bartek/CLionProjects/SzachyC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
